@@ -69,7 +69,7 @@ NEWS_API_KEY=your_news_api_key
 ```
 #### **Start Backend**
 ```sh
-npm start
+node server.js
 ```
 The backend runs on **`http://localhost:5000`**.
 
