@@ -2,6 +2,7 @@
 # 🚀 RealTime-Dashboard  
 
 A **real-time dashboard** built with **React.js (Frontend)** and **Node.js + Express.js + Socket.io (Backend)** to display **live weather, cryptocurrency, and news updates**.
+![Screenshot (404)](https://github.com/user-attachments/assets/027ceb6a-0b64-4c34-99aa-c37abc6cb152)
 
 ---
 
